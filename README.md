@@ -1,6 +1,13 @@
 # rt - robert.tools
 
-installing npm lib from @robert.tools
+## install
+
+- install with git clone `git clone git@github.com:robert-tools/rt_bash_shortcuts.git`
+- reference in .bashrc: `source ~/<folder>/rt_bash_shortcuts/.fn.bashrc`
+
+## usage
+
+easy installing of @robert.tools npm packages
 
 ```bash
 
