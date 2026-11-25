@@ -23,4 +23,9 @@ rt curl status # get the status of specific package
 
 rt curl latest --save-dev
 rt curl 1.0.4 --save-dev
+
+# release
+rt rel # run release script to bump version
+rt pub # run publish script to publish package
+
 ```

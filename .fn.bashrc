@@ -42,6 +42,14 @@ rt() {
       rt_outdated
       return
       ;;
+    rel)
+      npm run release
+      return
+      ;;
+    pub)
+      npm run pub
+      return
+      ;;
   esac
 
   case "$action" in
